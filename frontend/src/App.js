@@ -17,10 +17,7 @@ function App() {
       ></NavBar>
 
       <div style={{overflow: 'hidden', minHeight: '100%', width: '100%', backgroundColor: darkTheme?'#555':'#eee',
-      			position: 'fixed',
-			    top: '0',
-			    left: '0',
-			    zIndex: '-4444'
+      			position: 'fixed', top: '0', left: '0', zIndex: '-4444'
       }}>
       </div>
     </div>
