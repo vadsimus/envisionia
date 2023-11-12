@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.css';
 import NavBar from './components/Navbar';
@@ -17,7 +16,7 @@ function App() {
         toggleTheme={toggleTheme}
       ></NavBar>
 
-      <div style={{height: '100vh', width: '100vw', backgroundColor: darkTheme?'#555':'#fff'}}>
+      <div style={{height: '100%', width: '100%', backgroundColor: darkTheme?'#555':'#fff'}}>
 
 
       </div>
