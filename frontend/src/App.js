@@ -22,9 +22,6 @@ function App() {
 			    left: '0',
 			    zIndex: '-4444'
       }}>
-
-
-
       </div>
     </div>
   );
